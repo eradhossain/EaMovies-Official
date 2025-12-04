@@ -1,4 +1,4 @@
-# 📺 **Ea Movies – Official APK Download**
+# <p align="center"> 📺 **Ea Movies – Official APK Download** </p>
 
 <p align="center">
   <img src="YOUR_LOGO_URL" width="160" alt="Ea Movies Logo">
@@ -183,6 +183,3 @@ If you like the project:
 📲 **Share with friends**
 💬 **Give feedback**
 
-
-
-Just reply **“Create my graphics”**.
