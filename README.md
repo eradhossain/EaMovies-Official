@@ -1,188 +1,164 @@
 # 📺 **Ea Movies – Official APK Download**
 
 <p align="center">
-  <img src="YOUR_LOGO_URL_HERE" alt="Ea Movies Logo" width="180"/>
+  <img src="YOUR_LOGO_URL" width="160" alt="Ea Movies Logo">
 </p>
 
 <p align="center">
-  <b>Fast • Lightweight • Smooth • Safe</b><br>
-  The official APK release of the Ea Movies OTT streaming app.
+  <b>A fast, lightweight & modern OTT streaming app built for smooth movie and TV playback.</b>
 </p>
-
----
-
-<style>
-/* GitHub allows *limited* HTML but CSS is mostly ignored; this is decorative only */
-.section-title {
-  font-size: 22px;
-  font-weight: bold;
-  margin-top: 20px;
-}
-</style>
-
----
-
-## 🚀 **About Ea Movies**
-
-**Ea Movies** is a lightweight OTT streaming application designed for fast, smooth, and stable video playback on Android devices.
-This repository hosts the **official APK**, safe to download and verified by the developer.
-
-> ⚠️ **No source code is included.**
-> This repo is only for safe APK distribution.
-
----
-
-## ⭐ **Key Features**
-
-* 🎬 Stream & watch movies and TV shows
-* ⚡ Optimized for low-RAM & low-end devices
-* 🎧 Built-in subtitle support
-* 🌙 Dark mode UI
-* 🔍 Smart search system
-* 📂 Categories & genres
-* 💾 Favorites / Watchlist
-* 📱 Clean, modern interface
-* 🧩 Lightweight (<20–30 MB APK)
-* 🔐 Trusted & official build
-
----
-
-## 🖼️ **Screenshots**
-
-*(Replace the image links with your actual screenshots)*
 
 <p align="center">
-  <img src="screenshots/screen1.png" width="30%" />
-  <img src="screenshots/screen2.png" width="30%" />
-  <img src="screenshots/screen3.png" width="30%" />
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Official%20APK-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-LATEST-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge">
 </p>
 
 ---
 
-## 📥 **Download the Latest Version**
+# 🎬 **About Ea Movies**
 
-👉 **Go to Releases:**
+**Ea Movies** is a modern OTT streaming application focused on **speed**, **clean UI**, and **smooth playback**, even on low-end devices.
+This repository contains the **official APK**, verified and uploaded by the developer.
+
+🔒 **No source code is included. This repo is for APK downloads only.**
+⚡ **Fast Updates • Safe Builds • Smooth Streaming**
+
+---
+
+# ⭐ **Features**
+
+✨ **Fast & Lightweight** – Optimized for 1–2 GB RAM devices
+🎞️ **HD Streaming** – Watch movies & TV shows smoothly
+🎧 **Subtitles Support** – Built-in subtitle engine
+🌙 **Dark Mode** – Modern and stylish UI
+🔍 **Smart Search** – Find movies instantly
+📂 **Organized Categories** – Genres & collections
+💾 **Favorites/Watchlist** – Save what you love
+📱 **Clean & Modern UI** – Simple and beautiful
+
+---
+
+# 📥 **Download Latest APK**
+
+➡️ **Visit the Releases page:**
 
 ### 🔗 [https://github.com/yourusername/EaMovies/releases](https://github.com/yourusername/EaMovies/releases)
 
-You will find:
-✔ Latest APK
-✔ Previous versions
-✔ Changelog
-✔ Release notes
+Inside you will find:
+
+* ✅ Latest APK
+* 🔄 Older versions
+* 📝 Changelog
+* 📎 Release notes
 
 ---
 
-## 📦 **Installation Guide**
+# 🖼️ **Screenshots**
 
-### **1️⃣ Download**
+Replace the image links with your actual screenshots:
 
-Go to **Releases** and download the latest `EaMovies.apk`.
+<p align="center">
+  <img src="screenshots/screen1.png" width="30%" alt="Screenshot 1"/> 
+  <img src="screenshots/screen2.png" width="30%" alt="Screenshot 2"/>
+  <img src="screenshots/screen3.png" width="30%" alt="Screenshot 3"/>
+</p>
 
-### **2️⃣ Enable Unknown Sources**
+---
 
-On your Android device:
+# 📦 **Installation Guide**
+
+## **1️⃣ Download APK**
+
+Download from the **Releases** section.
+
+## **2️⃣ Enable “Install Unknown Apps”**
 
 ```
-Settings → Security → Install unknown apps → Allow
+Settings → Security → Install unknown apps → Allow from this source
 ```
 
-### **3️⃣ Install the APK**
+## **3️⃣ Install**
 
-Open the downloaded file and tap **Install**.
+Tap the APK → **Install**
 
-### **4️⃣ Launch Ea Movies**
+## **4️⃣ Open App**
 
-Enjoy unlimited streaming! 🎬
-
----
-
-## 📱 **Device Requirements**
-
-* **Android:** 5.0+ (Lollipop or higher)
-* **RAM:** 1 GB minimum (2 GB recommended)
-* **Storage:** 50–100 MB free
-* **Internet:** Stable 4G/WiFi recommended
+Enjoy smooth streaming! 🍿
 
 ---
 
-## ❓ **FAQ**
+# 📱 **System Requirements**
 
-### **Is Ea Movies free?**
+| Feature         | Minimum                     |
+| --------------- | --------------------------- |
+| Android Version | **5.0 (Lollipop)**          |
+| RAM             | **1 GB (2 GB recommended)** |
+| Storage         | **50–100 MB free space**    |
+| Network         | **WiFi / 4G recommended**   |
 
-Yes, the app is free to install.
+---
 
-### **Does this repo contain source code?**
+# 📝 **Changelog Example (Future Releases)**
 
-No. This is **APK-only official distribution**.
+```
+## v1.0.0 – (Initial Release)
+- First official release of Ea Movies
+- Added categories & search features
+- Optimized for low-end devices
+- Improved subtitle engine
+```
+
+---
+
+# ❓ **FAQ**
+
+### **Is this the official Ea Movies app?**
+
+Yes — uploaded by the verified developer.
+
+### **Is the source code available?**
+
+No. This repo distributes **APK only**.
 
 ### **Is the APK safe?**
 
-Yes. Every release is uploaded by the official developer.
+Yes — digitally verified and directly uploaded here.
 
-### **Will updates be added here?**
+### **Will updates come here?**
 
-Yes, all future versions will appear in **Releases**.
+Yes. All future versions will be published under **Releases**.
 
 ---
 
-## 🧑‍💻 **Developer Credits**
+# 🧑‍💻 **Developer Credits**
 
 **Developer:** *Your Name / Ea Movies Team*
-**Project:** Ea Movies OTT Android App
-**Role:** App Development, UI/UX, Maintenance
-
-If you want, I can add:
-✔ LinkedIn
-✔ Portfolio
-✔ Social links
+**Role:** App Development, UI/UX, Updates
 
 ---
 
-## 📞 **Support & Contact**
-
-For issues, feedback, or business inquiries:
+# 📞 **Support & Contact**
 
 📧 **Email:** `your-email@example.com`
-🌐 **Website (optional):** `https://eamovies.app`
-🐞 **Bug Reports:** Open an issue → **Issues Tab**
-📢 **Updates:** Follow this repo for notifications
+🐞 **Report Issues:** Use the **Issues** tab
+📢 **Follow updates:** Star ⭐ this repository
 
 ---
 
-## 💬 **Community & Feedback**
+# 🌐 **Official Links (Optional)**
 
-Have ideas? Found a bug?
-👉 Open an **Issue** or submit a **Feature Request**.
+If you have them, replace with real links:
 
----
-
-## 📝 **Release Notes Template** (for your future updates)
-
-```
-## Version X.X.X – Release Notes
-
-### 🚀 New Features
-- Feature 1
-- Feature 2
-
-### 🛠️ Improvements
-- Improvement A
-- Improvement B
-
-### 🐞 Bug Fixes
-- Fixed crash on launch
-- Fixed UI glitch on homepage
-
-### 📥 Download
-Get the APK from the Releases section.
-```
+* 🌍 Website: `https://eamovies.app`
+* 📘 Facebook: `https://facebook.com/eamovies`
+* 📸 Instagram: `https://instagram.com/eamovies`
+* 📱 Telegram: `https://t.me/eamovies`
 
 ---
 
-## 🏷️ **GitHub Topics (SEO Optimized)**
-
-Add these to improve discoverability:
+# 🏷️ **Tags / Topics (GitHub-Friendly)**
 
 ```
 ea-movies
@@ -193,26 +169,20 @@ ott
 streaming
 movies
 tvshows
-entertainment
 video-player
+entertainment
 ```
 
 ---
 
-## ❤️ **Support the Project**
+# ❤️ **Support Ea Movies**
 
-If you like Ea Movies:
+If you like the project:
 
 ⭐ **Star the repository**
-💬 **Share feedback**
-📲 **Request new features**
+📲 **Share with friends**
+💬 **Give feedback**
 
----
 
-If you want, I can also create:
-🎨 **A professional banner/header image**
-📱 **More screenshot templates**
-📝 **A better logo**
-🎯 **A website landing page for Ea Movies**
 
-Just tell me!
+Just reply **“Create my graphics”**.
